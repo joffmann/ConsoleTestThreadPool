@@ -1,0 +1,6 @@
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\bin\Debug\ConsoleTestThreadPool.exe.config
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\bin\Debug\ConsoleTestThreadPool.exe
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\bin\Debug\ConsoleTestThreadPool.pdb
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\obj\Debug\ConsoleTestThreadPool.csprojResolveAssemblyReference.cache
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\obj\Debug\ConsoleTestThreadPool.exe
+F:\Repos\ConsoleTestThreadPool\ConsoleTestThreadPool\ConsoleTestThreadPool\obj\Debug\ConsoleTestThreadPool.pdb
